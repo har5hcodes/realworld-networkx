@@ -1,0 +1,15 @@
+A. Structure of the network
+    1) 4039
+    2) 2692
+    3) 88234
+    4) 39116
+    5) [107]
+    6) .plots/shortest_path_ego_facebook.jpg
+
+B. Components of the network
+    1) 0.9684249628528975
+    2) 26
+    3) 37
+    4) .plots/connected_comp_ego_facebook.jpg
+    5) 14
+
