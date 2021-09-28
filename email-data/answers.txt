@@ -1,0 +1,20 @@
+A. Size of the network
+    a) number of nodes: 1005
+    b) number of edges: 25571
+
+B. Degree of nodes in the network
+    a) number of nodes with degree=4: 33
+    b) ./plots/deg-dist.jpg
+
+C. Wcc and Scc
+    a) largest wcc(nodes, edges) = (986, 25552)
+    b) largest scc(nodes, edges) = (803, 24729)
+
+D. Calculate the average Clustering Coefficient
+    a) average clustering coefficient: 0.3656613629131559
+
+E. Calculate number of triangles and rectangles
+    a) number of triangles: 105461
+
+F. Calculate Number of edge bridges
+    a) number of edge bridges: 95
